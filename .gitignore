@@ -1,3 +1,6 @@
 pkg/
 api.key
 *-handin.tar.gz
+
+# out-put
+mr-out-*
